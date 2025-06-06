@@ -19,7 +19,7 @@ This repository contains a collection of Data Structures and Algorithms (DSA) in
 
 ## Getting Started  
 To get a copy of this repository up and running on your local machine, follow these steps:  
-1. Clone the repository: `git clone https://github.com/Ankit2004tiwari/DSA-Problem-Set-1.git`  
+1. Clone the repository: `git clone https://github.com/ankit-tiwari-dev/DSA-Problem-Set-1.git`  
 2. Navigate to the project directory: `cd DSA-Problem-Set-1`  
 
 ## Usage  
